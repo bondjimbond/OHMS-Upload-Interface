@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the OHMS Upload Interface feature.
+ */
+
+include_once 'ohms_upload_interface.features.inc';
